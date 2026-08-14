@@ -288,7 +288,7 @@ focus:
 <a href="https://github.com/charan-135"><img src="https://img.shields.io/badge/GitHub-charan--135-0B0F14?style=for-the-badge&logo=github&logoColor=00D9FF&labelColor=0B0F14"/></a>
 <a href="https://www.linkedin.com/in/charan-gollavalli/"><img src="https://img.shields.io/badge/LinkedIn-Charan%20Gollavalli-0B0F14?style=for-the-badge&logo=linkedin&logoColor=7CFFB2&labelColor=0B0F14"/></a>
 <a href="https://leetcode.com/u/charan_135/"><img src="https://img.shields.io/badge/LeetCode-charan__135-0B0F14?style=for-the-badge&logo=leetcode&logoColor=00D9FF&labelColor=0B0F14"/></a>
-<a href="mailto:charancharan133596@gmail.com"><img src="https://img.shields.io/badge/Email-charancharan133596-0B0F14?style=for-the-badge&logo=gmail&logoColor=7CFFB2&labelColor=0B0F14"/></a>
+<a href="mailto:charangollavalli27@gmail.com"><img src="https://img.shields.io/badge/Email-charancharan133596-0B0F14?style=for-the-badge&logo=gmail&logoColor=7CFFB2&labelColor=0B0F14"/></a>
 
 </div>
 
