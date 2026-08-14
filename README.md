@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,100:0B0F14&height=200&section=header&text=CHARAN%20GOLLAVALLI&fontSize=45&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descColor=7CFFB2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0D1420,100:0B0F14&height=220&section=header&text=CHARAN%20GOLLAVALLI&fontSize=45&fontColor=00D9FF&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descColor=7CFFB2" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=charan-135&label=Profile%20Views&color=00D9FF&style=flat&labelColor=0B0F14" alt="Profile views"/>
 
 <br/>
 
@@ -39,6 +41,10 @@ OPEN_TO     : Software Engineering Roles, Internships, Collaborative Projects
 ```
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7CFFB2&height=6&section=header" width="100%"/>
+</div>
 
 ## `03.` Tech Stack
 
@@ -83,6 +89,10 @@ OPEN_TO     : Software Engineering Roles, Internships, Collaborative Projects
 </div>
 
 <br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7CFFB2&height=6&section=header" width="100%"/>
+</div>
 
 ## `05.` Featured Projects
 
@@ -189,6 +199,10 @@ A full-stack task management application supporting task creation, updating, del
 
 <br/>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7CFFB2&height=6&section=header" width="100%"/>
+</div>
+
 ## `09.` GitHub Analytics
 
 <div align="center">
@@ -214,7 +228,17 @@ A full-stack task management application supporting task creation, updating, del
 
 <br/>
 
-## `11.` Current Focus
+## `11.` Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/charan-135/charan-135/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## `12.` Current Focus
 
 ```yaml
 > cat current-focus.yaml
@@ -239,7 +263,7 @@ focus:
 
 <br/>
 
-## `12.` Coding Profiles
+## `13.` Coding Profiles
 
 <div align="center">
 
@@ -251,7 +275,11 @@ focus:
 
 <br/>
 
-## `13.` Connect With Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7CFFB2&height=6&section=header" width="100%"/>
+</div>
+
+## `14.` Connect With Me
 
 <div align="center">
 
@@ -264,4 +292,4 @@ focus:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,100:0B0F14&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,50:0D1420,100:0B0F14&height=120&section=footer&animation=twinkling"/>
