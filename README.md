@@ -218,11 +218,13 @@ A full-stack task management application supporting task creation, updating, del
 
 <br/>
 
-## `10.` GitHub Trophies
+## `10.` GitHub Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=charan-135&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%"/>
+<img src="https://img.shields.io/github/followers/charan-135?style=for-the-badge&color=00D9FF&labelColor=0B0F14&label=Followers" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0B0F14&color=7CFFB2&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/charan-135" />
+<img src="https://img.shields.io/github/stars/charan-135?style=for-the-badge&color=00D9FF&labelColor=0B0F14&label=Stars" />
 
 </div>
 
