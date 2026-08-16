@@ -136,7 +136,7 @@ A web application for creating, scheduling, storing, and retrieving digital mess
 - Responsive user interfaces using HTML5, CSS3, and JavaScript
 - Input validation, exception handling, and modular programming practices for reliability and data integrity
 
-🔗 Repository: *coming soon*
+🔗 [Repository](https://github.com/charan-135/future-capsule)
 
 </details>
 
